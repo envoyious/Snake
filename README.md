@@ -1,6 +1,6 @@
 # Snake
 
-Made over the summer to learn C# and FNA.
+A small Nokia-like Snake made over the summer to learn C# and FNA.
 
 Play the game [here](https://abyssalenvoy.itch.io/snake-ii).
 
