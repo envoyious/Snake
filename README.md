@@ -13,7 +13,3 @@ Play the game on my [itch.io](https://abyssalenvoy.itch.io/snake-ii) page.
 Use ```git clone --recursive https://github.com/abyssalEnvoy/Snake``` to also download FNA.
 
 Build and place fnalibs (found here https://fna.flibitijibibo.com/archive/fnalibs.tar.bz2) next to executable.
-
-##
-
-Engine code based on Maddy Thorson's Monocle
