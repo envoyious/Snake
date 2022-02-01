@@ -10,4 +10,5 @@ Play the game [here](https://abyssalenvoy.itch.io/snake-ii).
 ## Building from source
 
 Use ```git clone --recursive https://github.com/abyssalEnvoy/Snake``` to also download FNA.
+
 Build and place fnalibs (found here https://fna.flibitijibibo.com/archive/fnalibs.tar.bz2) next to executable.
