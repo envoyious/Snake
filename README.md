@@ -2,7 +2,7 @@
 
 A small Nokia-like Snake made over the summer to learn C# and FNA.
 
-Play the game on my [itch.io](https://abyssalenvoy.itch.io/snake-ii) page.
+Play the game on my [itch.io](https://envoye.itch.io/snake-ii) page.
 
 ##
 
