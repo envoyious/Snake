@@ -10,6 +10,6 @@ Play the game on my [itch.io](https://envoye.itch.io/snake-ii) page.
 
 ## Building from source
 
-Use ```git clone --recursive https://github.com/abyssalEnvoy/Snake``` to also download FNA.
+Use ```git clone --recursive https://github.com/envoyious/Snake``` to also download FNA.
 
 Build and place fnalibs (found here https://fna.flibitijibibo.com/archive/fnalibs.tar.bz2) next to executable.
